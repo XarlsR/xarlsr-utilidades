@@ -1,4 +1,4 @@
-# xarls-utilidades  [![Latest release](https://img.shields.io/badge/release-1.6.1-blue)]() #
+# xarls-utilidades  [![Latest release](https://img.shields.io/badge/release-1.8.0-blue)]() #
 
 ----------
 
